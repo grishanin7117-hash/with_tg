@@ -1,0 +1,16 @@
+{
+  "base": {
+    "project": "Jenkins2 Project",
+    "environment": "test",
+    "comment": "Automated test run",
+    "reportLink": "https://jenkins.autotests.cloud/job/qa-guru-telegram-notifications/",
+    "language": "ru",
+    "allureFolder": "../allure-report",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "8697817557:AAEhmJ-llVMCTAMReO3osDnP6Ga-ROrCiSo",
+    "chat": "-1003944292042",
+    "replyTo": ""
+  }
+}
